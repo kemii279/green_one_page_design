@@ -1,2 +1,2 @@
 # green_one_page_design
-!["代替テキスト"]("https://github.com/user-attachments/assets/9a8d5059-8eba-447f-bdea-e6ebcb754bbc")
+<img width="1174" height="933" alt="Image" src="https://github.com/user-attachments/assets/fff9c617-6326-4f1f-a2f4-f84c6fe3c3f1" />
